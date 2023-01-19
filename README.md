@@ -1,12 +1,13 @@
 # Acm-Record <br/>
-
-这是一个用于记录蒟蒻学习算法的仓库 <br/>
+______
+这是用于记录一个蒟蒻准备算法历程的仓库 <br/>
 
 包含 <br/>
-  + Note:      算法学习笔记<br/>
-  + Src:       代码归档，包含了题解、AC代码<br/>
-  + Template： 算法模板<br/>
-  + Archive:   一些本蒟蒻认为有用的资料<br/>
+  + Preparation:包含了介=对ACM的介绍，技能树，学习路线，题单<br/>
+  + Note:算法学习笔记<br/>
+  + Src:代码归档，包含了题解、AC代码<br/>
+  + Template:算法模板<br/>
+  + Archive:一些本蒟蒻认为有用的资料<br/>
 ______
 #关于算法复杂度
 
@@ -30,6 +31,6 @@ ______
 - [Tushar Roy 的 YouTube](https://www.youtube.com/user/tusharroy2525)
 - [Tushar Roy 的代码库](https://github.com/mission-peace/interview)
 - [Pecco 的算法学习笔记](https://www.zhihu.com/column/c_1182444932760125440)
-
+______
 另外想到了再补充
 
