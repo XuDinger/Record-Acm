@@ -23,14 +23,19 @@ ______
 以上范围仅供参考，实际中还要考虑每种算法的常数。
 ______
 推荐一些优质的资源
+
+- [算法基础课](acwing/算法基础课)
+- [算法竞赛进阶指南](acwing/算法竞赛进阶指南)
 - [《算法竞赛进阶指南》打卡活动](https://www.acwing.com/activity/content/introduction/6/)
 - [《算法竞赛进阶指南》资源社区](https://github.com/lydrainbowcat/tedukuri)
 - [yxc的B站](https://space.bilibili.com/7836741/)
 - [OI WiKi](https://github.com/OI-wiki/OI-wiki)
+- [lucifer1004的CP笔记](https://cp-wiki.vercel.app/)
 - [ACM 模板库](https://github.com/F0RE1GNERS/template)
 - [Tushar Roy 的 YouTube](https://www.youtube.com/user/tusharroy2525)
 - [Tushar Roy 的代码库](https://github.com/mission-peace/interview)
 - [Pecco 的算法学习笔记](https://www.zhihu.com/column/c_1182444932760125440)
+
 ______
 另外想到了再补充
 
