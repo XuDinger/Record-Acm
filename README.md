@@ -24,8 +24,6 @@ ______
 ______
 推荐一些优质的资源
 
-- [算法基础课](acwing/算法基础课)
-- [算法竞赛进阶指南](acwing/算法竞赛进阶指南)
 - [《算法竞赛进阶指南》打卡活动](https://www.acwing.com/activity/content/introduction/6/)
 - [《算法竞赛进阶指南》资源社区](https://github.com/lydrainbowcat/tedukuri)
 - [yxc的B站](https://space.bilibili.com/7836741/)
